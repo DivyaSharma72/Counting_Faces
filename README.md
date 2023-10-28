@@ -2,14 +2,10 @@
   ### Directory Tree
 
 ```
-├── results
-│   ├── 2020-06-25 16_23_57-Window.png
-│   ├── 2020-06-25 16_25_13-Window.png
 ├── app.py
 ├── Dockerfile
 ├── haarcascade_frontalface_default.xml
 ├── requirements.txt
-├── LICENSE
 ├── README.md
 ```
 
